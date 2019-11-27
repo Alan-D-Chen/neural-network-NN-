@@ -4,7 +4,7 @@ The basic principle of neural network. A simple 2 * 2 * 1 neural network structu
 >>>Pyhton 3.6  ;Pycharm;neural network ;Handwritten numerals recognition (classification) neural network<br>
 
 <br>
->> English ; Chinese
+>> English ; Chinese<br>
 
 * Handwritten `digital data set` integrated in SKlearn module:
 
