@@ -19,10 +19,10 @@ ITEMS|Handwritten digital PICs| number |pixel
 3|![](https://github.com/Alan-D-Chen/neural-network-NN-/blob/master/6.png)|6|8*8
 4|![](https://github.com/Alan-D-Chen/neural-network-NN-/blob/master/9.png)|9|8*8
 <br>
-* `neural network` shows just as :<br>
+* The `neural network` shows just as :<br>
 
-  * ![stucture](https://github.com/Alan-D-Chen/neural-network-NN-/blob/master/Image.png)<br>
-  * ![cross_validation](https://github.com/Alan-D-Chen/neural-network-NN-/blob/master/cross_validation.jpg)<br>
+  * stucture<br>![stucture](https://github.com/Alan-D-Chen/neural-network-NN-/blob/master/Image.png)<br>
+  * cross_validation<br>![cross_validation](https://github.com/Alan-D-Chen/neural-network-NN-/blob/master/cross_validation.jpg)<br>
   
 * `DigitsVisualaizing` shows that how Handwritten numerals recognition (classification) neural network works.<br>
 
