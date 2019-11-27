@@ -22,7 +22,7 @@ ITEMS|Handwritten digital PICs| number |pixel
 * `neural network` shows just as :<br>
 
   * ![stucture](https://github.com/Alan-D-Chen/neural-network-NN-/blob/master/Image.png)<br>
-  * ![cross_validation](https://github.com/Alan-D-Chen/neural-network-NN-/blob/master/cross_validation.png)<br>
+  * ![cross_validation](https://github.com/Alan-D-Chen/neural-network-NN-/blob/master/cross_validation.jpg)<br>
   
 * `DigitsVisualaizing` shows that how Handwritten numerals recognition (classification) neural network works.<br>
 
